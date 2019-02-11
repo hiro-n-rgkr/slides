@@ -2,8 +2,9 @@ name: inverse
 layout: true
 class: center, middle, inverse
 ---
-# タイトル
-１ページ目
+# 構造×デジタル×...
+---
+# 構造×デジタル×自分
 ---
 layout:false
 ## スライド１
