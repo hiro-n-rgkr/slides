@@ -8,14 +8,14 @@ class: center, middle, inverse
 ---
 layout:false
 ## 構造×デジタル×自分 = ちょっと間違った建築の人
-### スライド１
-２ページ目
+### hiron@バGH使い
+blog書いたり、youtubeとかにRhinoのgrasshopperを使った動画上げたり
 
-* コードを書く
-```
-// コードを書く
-abc
-```
+---
+name: inverse
+layout: true
+class: center, middle, inverse
+# 構造×デジタル×blog
 ---
 ## スライド２
 ### スライド２
