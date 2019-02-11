@@ -7,7 +7,7 @@ class: center, middle, inverse
 # 構造×デジタル×自分
 ---
 layout:false
-## スライド１
+## 構造×デジタル×自分 = ちょっと間違った建築の人
 ### スライド１
 ２ページ目
 
