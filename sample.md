@@ -49,3 +49,20 @@ class: center, middle, inverse
 ---
 layout:false
 ## 構造×デジタル×VR=解説動画
+[![](https://i.ytimg.com/vi/65HYKiHWYDs/hqdefault.jpg)](https://www.youtube.com/watch?v=65HYKiHWYDs&t=17s)
+
+---
+## 構造×デジタル×VR=VR建築コンテスト
+![](https://static.wixstatic.com/media/d87462_96e93f6a167e4cba95c60f76dcf67695~mv2_d_2526_1787_s_2.png/v1/fill/w_544,h_384,al_c,q_80,usm_0.66_1.00_0.01/2526x1787_150.webp)
+
+---
+## 構造×デジタル×VR=VRアカデミア
+![](https://lh4.googleusercontent.com/q1olNHs32NoR1yDpzDAn41bZz5NvQSlVb0x--0jGDBKNLqWnYkDOAbCKCLfCIdZ1ZKPwkTQVtyyOD6iJm2HJh36jYWyY8-ZrrE_Bh1OpUSQc751pNA=w1075)
+
+---
+name: inverse
+layout: true
+class: center, middle, inverse
+---
+# 構造×デジタル×blog×GH×VR=...?
+---
