@@ -9,7 +9,13 @@ class: center, middle, inverse
 layout:false
 ## 構造×デジタル×自分 = ちょっと間違った建築の人
 ### hiron@バGH使い
-blog書いたり、youtubeとかにRhinoのgrasshopperを使った動画上げたり
+blog書いたり、youtubeとかにRhinoのgrasshopperを使った動画上げたり  
+.left-column[
+![](https://github.com/hiro-n-rgkr/slides/blob/gh-pages/images/top1.PNG)
+]
+.right-column[
+![](https://github.com/hiro-n-rgkr/slides/blob/gh-pages/images/top2.PNG)
+]
 
 ---
 name: inverse
@@ -39,7 +45,13 @@ class: center, middle, inverse
 ---
 layout:false
 ## 構造×デジタル×GH=コンポーネント職人
-
+![](https://github.com/hiro-n-rgkr/slides/blob/gh-pages/images/component.PNG)  
+.left-column[
+![](https://github.com/hiro-n-rgkr/slides/blob/gh-pages/images/Beam.PNG)
+]
+.right-column[
+![](https://github.com/hiro-n-rgkr/slides/blob/gh-pages/images/response.PNG)
+]
 ---
 name: inverse
 layout: true
@@ -57,7 +69,7 @@ layout:false
 
 ---
 ## 構造×デジタル×VR=VRアカデミア
-![](https://lh4.googleusercontent.com/q1olNHs32NoR1yDpzDAn41bZz5NvQSlVb0x--0jGDBKNLqWnYkDOAbCKCLfCIdZ1ZKPwkTQVtyyOD6iJm2HJh36jYWyY8-ZrrE_Bh1OpUSQc751pNA=w1075)
+<img src="https://lh4.googleusercontent.com/q1olNHs32NoR1yDpzDAn41bZz5NvQSlVb0x--0jGDBKNLqWnYkDOAbCKCLfCIdZ1ZKPwkTQVtyyOD6iJm2HJh36jYWyY8-ZrrE_Bh1OpUSQc751pNA=w1075" width="600">
 
 ---
 name: inverse
