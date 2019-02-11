@@ -65,4 +65,3 @@ layout: true
 class: center, middle, inverse
 ---
 # 構造×デジタル×blog×GH×VR=...?
----
