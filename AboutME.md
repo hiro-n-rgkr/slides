@@ -41,9 +41,11 @@ class: center, middle, inverse
 # 構造×デジタル×GH
 ---
 layout:false
-## 構造×デジタル×GH=コンポーネント職人
-![](https://github.com/hiro-n-rgkr/slides/blob/gh-pages/images/component.PNG)  
-![](https://github.com/hiro-n-rgkr/slides/blob/gh-pages/images/Beam.PNG)
+## 構造×デジタル×GH=コンポーネント職人  
+grasshopperのコンポーネントをC#で書いたりしてます。  
+  
+![](https://1.bp.blogspot.com/-1XC2L4jtmmk/W1R3lktjr9I/AAAAAAAABiw/kUHPAQHqed8gBjfPsZoWgTPEqRPscBIswCLcBGAs/s640/%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2597%25E3%2583%2581%25E3%2583%25A3.JPG)  
+![](https://raw.githubusercontent.com/hiro-n-rgkr/1dofResponseAnalysis/master/1dofResponseAnalysis/images/howtouse.PNG)
 
 ---
 name: inverse
