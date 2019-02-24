@@ -9,6 +9,7 @@ layout:false
 ### hiron@バGH使い
 blog書いたり、youtubeとかにRhinoのgrasshopperを使った動画上げたり  
 構造とデジタル技術を織り交ぜた面白いこと考えてます。
+
 ![](https://github.com/hiro-n-rgkr/slides/blob/gh-pages/images/top1.PNG)
 ---
 name: inverse
@@ -23,11 +24,12 @@ layout:false
 ↓
 2.  うわっ…、日本語の解説サイト、少なすぎ…？  
 ↓
-3.  自分で作ればいいんだ！  
+3.  自分で作ればいいんだ！blog[構造とデジタル](https://rgkr-memo.blogspot.com/) 開設  
 ↓
-4.  文字じゃ伝わらないし、バ美☆カツ  
-
-ちなみに一番見られているのは、__[Arduinoで取得した波形をFFTする](https://rgkr-memo.blogspot.com/2015/10/arduinofft.html)__  
+4.  文字じゃ伝わらないし、バ美☆カツ 動画も作るようになりました。__[YoutubeChannel](https://www.youtube.com/channel/UC6k39WVNArYdGew6NeolxJA)__  
+  
+  
+ちなみに一番見られているblogの記事は、__[Arduinoで取得した波形をFFTする](https://rgkr-memo.blogspot.com/2015/10/arduinofft.html)__  
 
 ![](https://1.bp.blogspot.com/-35HlAtn9pQY/VerzPQSDeXI/AAAAAAAAA20/NOk3HWMLXG8/s400/IMG_20150905_224850.JPG)
 
@@ -63,7 +65,7 @@ layout:false
 ---
 ## 構造×デジタル×VR=VRアカデミア
 *  __[VRアカデミア](https://sites.google.com/view/vr-academia)__ に所属して動画上げたりもしています。  
-![](https://i.ytimg.com/vi/TW5Pjw3GJ_8/maxresdefault.jpg)
+<img src="https://i.ytimg.com/vi/TW5Pjw3GJ_8/maxresdefault.jpg" width="600">
 
 ---
 name: inverse
@@ -73,3 +75,4 @@ class: center, middle, inverse
 # 構造×デジタル×blog×GH×VR=...?
 ---
 # ちょっと間違った建築の未来を探していきます。
+コンタクトは[twitterのDMで](https://twitter.com/hiron_rgkr) 
