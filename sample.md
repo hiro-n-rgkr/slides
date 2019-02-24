@@ -2,21 +2,15 @@ name: inverse
 layout: true
 class: center, middle, inverse
 ---
-# 構造×デジタル×...
----
-# 構造×デジタル×自分
+# About ME
 ---
 layout:false
-## 構造×デジタル×自分 = ちょっと間違った建築の人
+## ちょっと間違った建築の人
 ### hiron@バGH使い
 blog書いたり、youtubeとかにRhinoのgrasshopperを使った動画上げたり  
-.left-column[
+構造とデジタル技術を織り交ぜた面白いこと考えてます。
 ![](https://github.com/hiro-n-rgkr/slides/blob/gh-pages/images/top1.PNG)
 ]
-.right-column[
-![](https://github.com/hiro-n-rgkr/slides/blob/gh-pages/images/top2.PNG)
-]
-
 ---
 name: inverse
 layout: true
@@ -46,12 +40,8 @@ class: center, middle, inverse
 layout:false
 ## 構造×デジタル×GH=コンポーネント職人
 ![](https://github.com/hiro-n-rgkr/slides/blob/gh-pages/images/component.PNG)  
-.left-column[
 ![](https://github.com/hiro-n-rgkr/slides/blob/gh-pages/images/Beam.PNG)
-]
-.right-column[
-![](https://github.com/hiro-n-rgkr/slides/blob/gh-pages/images/response.PNG)
-]
+
 ---
 name: inverse
 layout: true
