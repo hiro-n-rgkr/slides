@@ -56,7 +56,8 @@ layout:false
 
 ## 構造×デジタル×GH=コンポーネント職人  
 
-* grasshopperのコンポーネントをC#で書いたりしてます。  
+* grasshopperのコンポーネントをC#で書いたりしてます。   
+作ったものは　 [単純梁のコンポーネント](https://github.com/hiro-n-rgkr/BeamAnalysis) や　[振動解析のコンポーネント](https://github.com/hiro-n-rgkr/1dofResponseAnalysis)　
   
 <img src="https://1.bp.blogspot.com/-1XC2L4jtmmk/W1R3lktjr9I/AAAAAAAABiw/kUHPAQHqed8gBjfPsZoWgTPEqRPscBIswCLcBGAs/s640/%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2597%25E3%2583%2581%25E3%2583%25A3.JPG" width="600">
 <img src="https://raw.githubusercontent.com/hiro-n-rgkr/1dofResponseAnalysis/master/1dofResponseAnalysis/images/howtouse.PNG" width="600">
@@ -74,14 +75,14 @@ layout:false
 
 ## 構造×デジタル×VR=解説動画
 
-* youtubeにGHや作ったものの解説動画を上げています。  
+* __[YouTubeChannel](https://www.youtube.com/channel/UC6k39WVNArYdGew6NeolxJA)__ にGHや作ったものの解説動画を上げています。  
   
 <img src="http://img.youtube.com/vi/m5XavKtTCss/maxresdefault.jpg" width="600">
 
 ---
 
 ## 構造×デジタル×VR=xRArchi
-*  xRArchiで少しだけコンテストのお手伝いしたりしました。
+*  __[xRArchi](https://www.xrarchi.org/)__ で少しだけコンテストのお手伝いしたりしました。
   
 ![](https://static.wixstatic.com/media/d87462_96e93f6a167e4cba95c60f76dcf67695~mv2_d_2526_1787_s_2.png/v1/fill/w_544,h_384,al_c,q_80,usm_0.66_1.00_0.01/2526x1787_150.webp)
 
